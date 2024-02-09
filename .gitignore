@@ -1,0 +1,17 @@
+snap/
+scripts/
+nohup/
+**/nohup.out
+**/__pycache__/
+
+data/glove.6B.300d.txt
+data/AGQA/videos/
+data/AGQA/video_features/
+data/AGQA/AGQA_balanced/
+data/AGQA/AGQA2_balanced/
+data/AGQA/AGQA_fairseq/
+data/AGQA/AGQA2_fairseq/
+data/AGQA/AGQA_scene_graphs/
+data/AGQA/AGQA_balanced_pkls/
+data/AGQA/AGQA2_balanced_pkls/
+data/AGQA/AGQA2_balanced_pkls*/
